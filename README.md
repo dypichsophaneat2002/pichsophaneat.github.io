@@ -1,3 +1,3 @@
 # Personal Website
-HTML / CSS / JavaScript / Boostrap
-100% Responsive Website
+- HTML / CSS / JavaScript / Bootstrap
+- Fully Responsive
