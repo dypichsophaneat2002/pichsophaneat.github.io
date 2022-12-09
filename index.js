@@ -1,12 +1,13 @@
 const button1 = document.getElementById("button1");
 const button2 = document.getElementById("button2")
 const body = document.body;
-body.style.backgroundColor = "white";
+// True = Bright Mode AND False = Dark
+const mode = true; 
 const item1 = document.getElementById("item1");
 const item2 = document.getElementById("item2");
 const item3 = document.getElementById("item3");
 button1.addEventListener("click", function(){
-    if (body.style.backgroundColor == "white"){
+    if (mode){
         body.style.backgroundColor = "black";
         item1.style.color = "white";
         item2.style.color = "white";
