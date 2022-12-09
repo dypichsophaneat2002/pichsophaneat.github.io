@@ -1,6 +1,7 @@
 const button1 = document.getElementById("button1");
 const button2 = document.getElementById("button2")
 const body = document.body;
+body.style.backgroundColor = "white";
 const item1 = document.getElementById("item1");
 const item2 = document.getElementById("item2");
 const item3 = document.getElementById("item3");
